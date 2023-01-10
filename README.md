@@ -1,20 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-[Website](https://justus-d.de "Website")
+You can find additional links on my [website](https://justus-d.de "website").
 
-<!-- Test -->
-
-<!--
-**Justus-D/Justus-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## PGP/GPG keys
+I usually publish my PGP-keys on [keys.openpgp.org](https://keys.openpgp.org "keys.openpgp.org") or on my [website](https://justus-d.de "my website").
+Since 2023-01-10 I try to sign every git commit with the following PGP-key:<br>
+[Justus Dietrich \<git@justus-d.de\>](https://keys.openpgp.org/vks/v1/by-fingerprint/D36A5E86CA402697D10A3B73F1DA6516B466276C "download the key") `F1DA 6516 B466 276C`
